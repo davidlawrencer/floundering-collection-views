@@ -14,13 +14,14 @@ Each `UICollectionViewCell` should have:
 - the name of the element
 - the atomic mass of the element
 
-Try to lay out these cells in a similar format to what one sees when looking at the periodic table.
+Try to lay out each of these cells in a similar format to what one sees when looking at an element in the periodic table.
 
 ![table](https://www.sigmaaldrich.com/content/dam/sigma-aldrich/articles/biology/marketing-assets/periodic-table-elements-small.png)
 
 
 ## Documentation and Guides
 
-[Apple Documentation - UICollectionView](https://developer.apple.com/documentation/uikit/uicollectionview)
-[Ray Wenderlich - UICollectionView Tutorial](https://www.raywenderlich.com/9334-uicollectionview-tutorial-getting-started)
-[Hacking With Swift - Designing UICollectionView cells](https://www.hackingwithswift.com/read/10/2/designing-uicollectionview-cells)
+- [Apple Documentation - UICollectionView](https://developer.apple.com/documentation/uikit/uicollectionview)
+- [Ray Wenderlich - UICollectionView Tutorial](https://www.raywenderlich.com/9334-uicollectionview-tutorial-getting-started)
+- [Hacking With Swift - Designing UICollectionView cells](https://www.hackingwithswift.com/read/10/2/designing-uicollectionview-cells)
+- [Pursuit iOS Curriculum - Collection Views](https://github.com/joinpursuit/Pursuit-Core-iOS/blob/master/persistence-animation-autolayout/uicollectionview/README.md)
