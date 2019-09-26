@@ -18,6 +18,7 @@
 		54228C47233CF95700427662 /* AppError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54228C46233CF95700427662 /* AppError.swift */; };
 		54228C49233CF97600427662 /* ImageHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54228C48233CF97600427662 /* ImageHelper.swift */; };
 		54228C4B233CF98F00427662 /* NetworkHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54228C4A233CF98F00427662 /* NetworkHelper.swift */; };
+		54228C51233D10D300427662 /* ElementCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54228C50233D10D300427662 /* ElementCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		54228C46233CF95700427662 /* AppError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppError.swift; sourceTree = "<group>"; };
 		54228C48233CF97600427662 /* ImageHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageHelper.swift; sourceTree = "<group>"; };
 		54228C4A233CF98F00427662 /* NetworkHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkHelper.swift; sourceTree = "<group>"; };
+		54228C50233D10D300427662 /* ElementCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElementCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -147,6 +149,7 @@
 			isa = PBXGroup;
 			children = (
 				54228C25233CF5E700427662 /* Main.storyboard */,
+				54228C50233D10D300427662 /* ElementCollectionViewCell.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -255,6 +258,7 @@
 				54228C4B233CF98F00427662 /* NetworkHelper.swift in Sources */,
 				54228C45233CF92B00427662 /* ElementAPIClient.swift in Sources */,
 				54228C24233CF5E700427662 /* ViewController.swift in Sources */,
+				54228C51233D10D300427662 /* ElementCollectionViewCell.swift in Sources */,
 				54228C47233CF95700427662 /* AppError.swift in Sources */,
 				54228C22233CF5E700427662 /* AppDelegate.swift in Sources */,
 				54228C43233CF8E500427662 /* Element.swift in Sources */,
